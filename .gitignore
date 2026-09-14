@@ -1,0 +1,4 @@
+sparkle_ed25519.key
+sparkle_private_key*
+*.p12
+.env
