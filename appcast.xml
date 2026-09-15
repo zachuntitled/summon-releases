@@ -2,5 +2,14 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>Summon</title>
+    <item>
+      <title>Version 0.1.2</title>
+      <pubDate>Tue, 15 Sep 2026 01:52:37 +0000</pubDate>
+      <sparkle:version>0.1.2</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Ad-hoc signed. Not Developer ID / not notarized. Right-click Open if Gatekeeper blocks the first launch.]]></description>
+      <enclosure url="https://github.com/zachuntitled/summon-releases/raw/main/releases/Summon-0.1.2.dmg" length="4076367" type="application/octet-stream" sparkle:edSignature="cl5HqOKDnXfAFdQfJkuNdxzsEGu1A0l3LsdLL05raIRIX0H9VHhX+/YzF/Qn+ZLkQxve46FRJP99Ki/Xcod7Dw==" />
+    </item>
   </channel>
 </rss>
